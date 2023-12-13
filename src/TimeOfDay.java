@@ -1,0 +1,4 @@
+enum TimeOfDay {
+    DAY,
+    NIGHT
+}
